@@ -1,6 +1,7 @@
 # 顔認証システムの実装  
 ---  
 + 登録人物の画像  
+  
 ![./img/sample](./img/sample/sample_register.jpg)    
   
 + 認証結果  
@@ -20,6 +21,9 @@ $ python3 register.py img_path
 ```
 $ python3 predict.py img_path threshold
 ```  
+
+---  
+  
 注釈: モデルの開発は[ノートブックを参照](./notebook)  
 モデルの学習過程での認証結果:  それぞれ上下間での類似度を算出しています。  
   
