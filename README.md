@@ -2,7 +2,9 @@
 ---  
 + 登録人物の画像  
 ![./img/sample](./img/sample/sample_register.jpg)    
+  
 + 認証結果  
+  
 ![alt](./img/proto/recognized.png)  
   
 ---  
